@@ -23,6 +23,7 @@ body {
   width: 500px;
   height: 300px;
   transition: 0.6s;
+  perspective: 1000px;
 
   /*for 3d rotation So that background removed*/ 
   transform-style: preserve-3d; 
